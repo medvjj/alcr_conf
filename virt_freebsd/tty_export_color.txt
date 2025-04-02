@@ -1,0 +1,7 @@
+history | grep export
+export TERM=wsvt25
+export TERM=pccon
+export TERM=vt220
+
+## for freebsd
+export TERM=xterm-256color

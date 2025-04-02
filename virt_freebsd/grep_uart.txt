@@ -1,0 +1,11 @@
+uart2: <16550 or compatible> port 0x3e8-0x3ef irq 4 flags 0x10 on acpi0
+uart1: <16550 or compatible> port 0x2f8-0x2ff irq 3 on acpi0
+uart0: <16550 or compatible> port 0x3f8-0x3ff irq 4 on acpi0
+uart2: <16550 or compatible> port 0x3e8-0x3ef irq 4 on acpi0
+uart1: <16550 or compatible> port 0x2f8-0x2ff irq 3 on acpi0
+uart0: <16550 or compatible> port 0x3f8-0x3ff irq 4 flags 0x10 on acpi0
+uart0: console (115200,n,8,1)
+uart2: <16550 or compatible> port 0x3e8-0x3ef irq 4 flags 0x10 on acpi0
+uart2: console (9600,n,8,1)
+uart1: <16550 or compatible> port 0x2f8-0x2ff irq 3 on acpi0
+uart0: <16550 or compatible> port 0x3f8-0x3ff irq 4 on acpi0

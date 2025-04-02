@@ -1,0 +1,6 @@
+Скачать оффлайн-установщик Google Chrome можно используя следующие ссылки:
+
+    https://www.google.com/chrome/?standalone=1&platform=win (32-бит)
+    https://www.google.com/chrome/?standalone=1&platform=win64 (64-бит).
+
+При открытии указанных ссылок откроется обычная страница загрузки Chrome, но будет загружен именно оффлайн-установщик с последней версией браузера.
